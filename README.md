@@ -1,4 +1,8 @@
-### Hi there 👋
+<img src="./img/header-axwt.png" alt="hi">
+
+### Hi there, my name is Alex White.  <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="24px" alt="hi">
+### Motion designer and developer. Currently, I create tools and workflows for Adobe® products.
+
 
 <!--
 **axwt/axwt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +18,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+##### Seen in Microsoft, Google, Inno Games, New York University, Red Giant and many more.
+
+##### As of now:
+- 🔭 I’m currently working project localizations and motion graphics templates tools
+- ✨ Check out some of the [tools](https://aescripts.com/authors/m-p/motionland/) and [templates](https://videohive.net/user/motion-land/portfolio)
+- 📫 Can be found on [twitter](https://twitter.com/motion_land) or reached via [email](mailto:support@motion.land)

@@ -21,6 +21,6 @@ Here are some ideas to get you started:
 ##### Seen in Microsoft, Google, Inno Games, New York University, Red Giant and many more.
 
 ##### As of now:
-- 🔭 I’m currently working project localizations and motion graphics templates tools
-- ✨ Check out some of the [tools](https://aescripts.com/authors/m-p/motionland/) and [templates](https://videohive.net/user/motion-land/portfolio)
+- 🔭 Currently, I'm working on the localization project and motion graphics templates tools
+- ✨ Check out some of my [tools](https://aescripts.com/authors/m-p/motionland/) and [templates](https://videohive.net/user/motion-land/portfolio)
 - 📫 Can be found on [twitter](https://twitter.com/motion_land) or reached via [email](mailto:support@motion.land)

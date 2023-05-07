@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-##### Seen in Microsoft, Google, Inno Games, New York University, Red Giant and many more.
+##### Seen in Apple, Microsoft, Google, Inno Games, New York University, Red Giant and many more.
 
 ##### As of now:
 - 🔭 Currently, I'm working on the localization project and motion graphics templates tools
